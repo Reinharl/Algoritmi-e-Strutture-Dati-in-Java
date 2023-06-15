@@ -1,4 +1,4 @@
-## Esercizio: Sort Report
+## Esercizio 1: Sort Report
 
 
 Scrivere un programma Java che prende in ingresso da tastiera una serie di 20 numeri interi.

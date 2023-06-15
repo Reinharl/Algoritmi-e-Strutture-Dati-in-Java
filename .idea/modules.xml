@@ -27,10 +27,11 @@
       <module fileurl="file://$PROJECT_DIR$/esercitazione1/pari_dispari/pari_dispari.iml" filepath="$PROJECT_DIR$/esercitazione1/pari_dispari/pari_dispari.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione1/per_due_per_dieci/per_due_per_dieci.iml" filepath="$PROJECT_DIR$/esercitazione1/per_due_per_dieci/per_due_per_dieci.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione7/pila/pila.iml" filepath="$PROJECT_DIR$/esercitazione7/pila/pila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione8/pila_ordinata/pila_ordinata.iml" filepath="$PROJECT_DIR$/esercitazione8/pila_ordinata/pila_ordinata.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione6/potenza_ricorsiva/potenza_ricorsiva.iml" filepath="$PROJECT_DIR$/esercitazione6/potenza_ricorsiva/potenza_ricorsiva.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione3/scuola/scuola.iml" filepath="$PROJECT_DIR$/esercitazione3/scuola/scuola.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione6/somma_lineare/somma_lineare.iml" filepath="$PROJECT_DIR$/esercitazione6/somma_lineare/somma_lineare.iml" />
-      <module fileurl="file://$PROJECT_DIR$/esercitazione8/sortReport/sortReport.iml" filepath="$PROJECT_DIR$/esercitazione8/sortReport/sortReport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione8/sort_report/sort_report.iml" filepath="$PROJECT_DIR$/esercitazione8/sort_report/sort_report.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione2/tipo_capo_abbigliamento/tipo_capo_abbigliamento.iml" filepath="$PROJECT_DIR$/esercitazione2/tipo_capo_abbigliamento/tipo_capo_abbigliamento.iml" />
     </modules>
   </component>
