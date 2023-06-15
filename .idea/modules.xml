@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algoritmi e Strutture Dati in Java.iml" filepath="$PROJECT_DIR$/Algoritmi e Strutture Dati in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione1/comune/comune.iml" filepath="$PROJECT_DIR$/esercitazione1/comune/comune.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione1/esercitazione1.iml" filepath="$PROJECT_DIR$/esercitazione1/esercitazione1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione1/media/media.iml" filepath="$PROJECT_DIR$/esercitazione1/media/media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione1/pari_dispari/pari_dispari.iml" filepath="$PROJECT_DIR$/esercitazione1/pari_dispari/pari_dispari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione1/per_due_per_dieci/per_due_per_dieci.iml" filepath="$PROJECT_DIR$/esercitazione1/per_due_per_dieci/per_due_per_dieci.iml" />
+    </modules>
+  </component>
+</project>
