@@ -4,10 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algoritmi e Strutture Dati in Java.iml" filepath="$PROJECT_DIR$/Algoritmi e Strutture Dati in Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione1/comune/comune.iml" filepath="$PROJECT_DIR$/esercitazione1/comune/comune.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione2/contribuente/contribuente.iml" filepath="$PROJECT_DIR$/esercitazione2/contribuente/contribuente.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione1/esercitazione1.iml" filepath="$PROJECT_DIR$/esercitazione1/esercitazione1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione2/esercitazione2.iml" filepath="$PROJECT_DIR$/esercitazione2/esercitazione2.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione1/media/media.iml" filepath="$PROJECT_DIR$/esercitazione1/media/media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione2/motorino/motorino.iml" filepath="$PROJECT_DIR$/esercitazione2/motorino/motorino.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione1/pari_dispari/pari_dispari.iml" filepath="$PROJECT_DIR$/esercitazione1/pari_dispari/pari_dispari.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione1/per_due_per_dieci/per_due_per_dieci.iml" filepath="$PROJECT_DIR$/esercitazione1/per_due_per_dieci/per_due_per_dieci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione2/tipo_capo_abbigliamento/tipo_capo_abbigliamento.iml" filepath="$PROJECT_DIR$/esercitazione2/tipo_capo_abbigliamento/tipo_capo_abbigliamento.iml" />
     </modules>
   </component>
 </project>
