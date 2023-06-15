@@ -11,14 +11,21 @@
       <module fileurl="file://$PROJECT_DIR$/esercitazione3/esercitazione3.iml" filepath="$PROJECT_DIR$/esercitazione3/esercitazione3.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione4/esercitazione4.iml" filepath="$PROJECT_DIR$/esercitazione4/esercitazione4.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione5/esercitazione5.iml" filepath="$PROJECT_DIR$/esercitazione5/esercitazione5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione6/esercitazione6.iml" filepath="$PROJECT_DIR$/esercitazione6/esercitazione6.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione4/esercizio1/esercizio1.iml" filepath="$PROJECT_DIR$/esercitazione4/esercizio1/esercizio1.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione4/esercizio2/esercizio2.iml" filepath="$PROJECT_DIR$/esercitazione4/esercizio2/esercizio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione6/fattoriale/fattoriale.iml" filepath="$PROJECT_DIR$/esercitazione6/fattoriale/fattoriale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione6/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/esercitazione6/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione6/hanoi/hanoi.iml" filepath="$PROJECT_DIR$/esercitazione6/hanoi/hanoi.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione3/impresa/impresa.iml" filepath="$PROJECT_DIR$/esercitazione3/impresa/impresa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione6/inverti_array/inverti_array.iml" filepath="$PROJECT_DIR$/esercitazione6/inverti_array/inverti_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione1/media/media.iml" filepath="$PROJECT_DIR$/esercitazione1/media/media.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione2/motorino/motorino.iml" filepath="$PROJECT_DIR$/esercitazione2/motorino/motorino.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione1/pari_dispari/pari_dispari.iml" filepath="$PROJECT_DIR$/esercitazione1/pari_dispari/pari_dispari.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione1/per_due_per_dieci/per_due_per_dieci.iml" filepath="$PROJECT_DIR$/esercitazione1/per_due_per_dieci/per_due_per_dieci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione6/potenza_ricorsiva/potenza_ricorsiva.iml" filepath="$PROJECT_DIR$/esercitazione6/potenza_ricorsiva/potenza_ricorsiva.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione3/scuola/scuola.iml" filepath="$PROJECT_DIR$/esercitazione3/scuola/scuola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercitazione6/somma_lineare/somma_lineare.iml" filepath="$PROJECT_DIR$/esercitazione6/somma_lineare/somma_lineare.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercitazione2/tipo_capo_abbigliamento/tipo_capo_abbigliamento.iml" filepath="$PROJECT_DIR$/esercitazione2/tipo_capo_abbigliamento/tipo_capo_abbigliamento.iml" />
     </modules>
   </component>
